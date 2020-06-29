@@ -1,5 +1,5 @@
 body{background-color: khaki}
-h1{ text-align:center; }
+h1{ text-align:right; }
 .box1,.box2,.box3{background-color:#6eb232;
                   border:1px solid black;
                   margin-top: 20px;
@@ -46,9 +46,9 @@ h1{ text-align:center; }
                         top:80px;
                         right:28px;}
        .box5{position:absolute;
-                        top:194px;
+                        top:214px;
                         right:27px;}
        .box6{position:absolute;
-                        top:308px;
+                        top:348px;
                         right:27px;}
 }
