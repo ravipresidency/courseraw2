@@ -12,25 +12,43 @@ h1{ text-align:center; }
 {
       .box1,.box2,.box3{margin-right: 70px;
                         padding :23px;}
-      .box4,.box5,.box6{position:absolute;
-                        top:0px;
-                        right:0px;}
+      .box4{position:absolute;
+                        top:80px;
+                        right:28px;}
+       .box5{position:absolute;
+                        top:194px;
+                        right:27px;}
+       .box6{position:absolute;
+                        top:308px;
+                        right:27px;}
 }
 
 @media(min-width:768px) and (max-width:991px)
 {
       .box1,.box2,.box3{margin-right:55px;
                         padding :23px;}
-      .box4,.box5,.box6{position:absolute;
-                        top:0px;
-                        right:0px;}
+      .box4{position:absolute;
+                        top:80px;
+                        right:28px;}
+       .box5{position:absolute;
+                        top:194px;
+                        right:27px;}
+       .box6{position:absolute;
+                        top:308px;
+                        right:27px;}
 }
 
 @media(max-width: 767px)
 {
       .box1,.box2,.box3{ margin:20px;
                         padding :23px;}
-      .box4,.box5,.box6{position:absolute;
-                        top:0px;
-                        right:0px;}
+      .box4{position:absolute;
+                        top:80px;
+                        right:28px;}
+       .box5{position:absolute;
+                        top:194px;
+                        right:27px;}
+       .box6{position:absolute;
+                        top:308px;
+                        right:27px;}
 }
